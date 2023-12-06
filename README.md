@@ -2,12 +2,11 @@
 
 - 🔭 Today I do front-end projects
 - 🌱 I am studying Html, Css, JavaScript, NodeJs, Python and React
-- 😁 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/Isabellabalencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabellabalencar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellabalencar&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
 
 <div style="display: inline_block"><br>
