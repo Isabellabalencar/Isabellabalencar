@@ -1,4 +1,4 @@
-## Olá! Eu sou o Isabella Alencar
+## Helloo! I'm Isabella Alencar
 
 - 🔭 Today I do front-end projects
 - 🌱 I am studying Html, Css, JavaScript, NodeJs, Python and React
