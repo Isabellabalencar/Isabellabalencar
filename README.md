@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Isabella Alencar
 
-- 🔭 Hoje faço projetos em back-end
-- 🌱 Estou estudando Nest Js, Node js com Typescript e PHP com Yii2
+- 🔭 Today I do front-end projects
+- 🌱 I am studying Html, Css, JavaScript, NodeJs, Python and React
 - 😁 Pronouns: ela/dela
 
 <div align="center">
@@ -11,16 +11,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Isabella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isabella-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isabella-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Isabella-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Isabella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isabella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isabella-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Isabella-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Isabella-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Isabella-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Isabella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isabella-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Isabella-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Isabella-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ##
